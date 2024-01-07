@@ -9,7 +9,7 @@
 <b>- 3.0  Profile Stats</b>
 </p>
 
-[![](https://komarev.com/ghpvc/?username=sxlq&style=flat-square&color=1d1e2c)]
+[![](https://komarev.com/ghpvc/?username=sxlq&style=flat-square&color=1d1e2c)](https://github.com/sxlq)
 
 <!-- <br><br><br><br><br><br> -->
 <!-- <p dir="auto" align="center"><a target="_blank" href="https://discord.gg/users/621713529543720970"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/footers/gray0_ctp_on_line.svg?sanitize=true" style="max-width: 100%;"></a></p> -->
